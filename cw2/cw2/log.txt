@@ -1,1 +1,0 @@
-Błąd odczytu pliku data! 'dane.csv',' 10/19/2020 5:18:49 PM
